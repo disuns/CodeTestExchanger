@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CodeTestExchanger</string>
+    <string name="title">환율 계산</string>
+    <string name="remittance">송금국가 : 미국(USD)</string>
+    <string name="reception">수취국가 : %s</string>
+    <string name="exchange">환율 : %s %s / USD</string>
+    <string name="checkTime">조회시간 : %s</string>
+    <string name="remittanceMoney">송금액 : </string>
+    <string name="usd">USD</string>
+    <string name="result">수취금액은 %s %s 입니다</string>
+    <string name="error">송금액이 바르지 않습니다</string>
+    <string-array name="receptCountry">
+        <item>한국(KRW)</item>
+        <item>일본(JPY)</item>
+        <item>필리핀(PHP)</item>
+    </string-array>
+    <string-array name="receptUnit">
+        <item>KRW</item>
+        <item>JPY</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
